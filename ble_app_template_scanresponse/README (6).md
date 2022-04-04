@@ -48,4 +48,4 @@ The recommended way to install the nRF Connect SDK is through an app are
 
 Documents:
 1. Installing guide for nrf5sdk https://infocenter.nordicsemi.com/pdf/getting_started_nRF5SDK_ses.pdf
-2. Installing guide for nrfconnect Desktop https://infocenter.nordicsemi.com/index.jsp?topic=/struct_nrftools/struct/nrftools_nrfconnect.html.
+2. Installing guide for nrfconnect Desktop https://infocenter.nordicsemi.com/index.jsp?topic=/struct_nrftools/struct/nrftools_nrfconnect.html
